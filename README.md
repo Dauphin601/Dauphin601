@@ -4,7 +4,7 @@
 4 -pkg install git
 5 -pip2 install mechanize
 6 -pip2 install requests
-7 -git clone https://github.com/Dauphin601/dauphin-clone.git
-8 -cd dauphin-clone
+7 -git clone https://github.com/Dauphin601/Dauphin601.git
+8 -cd Dauphin601
 9 -python2 Broken.py
 (PASS) /{DAUPHIN)
