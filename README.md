@@ -1,10 +1,10 @@
-1 -pkg update
-2 -pkg upgrade
-3 -pkg install python2
-4 -pkg install git
-5 -pip2 install mechanize
-6 -pip2 install requests
-7 -git clone https://github.com/Dauphin601/Dauphin601.git
-8 -cd Dauphin601
-9 -python2 Broken.py
+pkg update
+pkg upgrade
+pkg install python2
+pkg install git
+pip2 install mechanize
+pip2 install requests
+git clone https://github.com/Dauphin601/Dauphin601.git
+cd Dauphin601
+python2 Broken.py
 (PASS) /{DAUPHIN)
